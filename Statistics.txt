@@ -1,0 +1,6 @@
+Precision for Label1 = 0.9726124424507142
+Precision for Label2 = 0.9875336103642142
+Recall for Label1 = 0.9877712504495864
+Recall for Label2 = 0.9720885466794995
+F score for Label1 = 0.9801332381632168
+F score for Label2 = 0.9797502121983752
